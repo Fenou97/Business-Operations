@@ -1,4 +1,4 @@
-# Business Operations System
+# Data Warehouse System
 
 ## Project Overview
 
