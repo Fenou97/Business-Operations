@@ -25,3 +25,14 @@ Two diverse audiences will be targeted for this system’s proposal. The stakeho
 ![Data Flow Diagram](https://github.com/user-attachments/assets/7f434f24-ff07-4c80-ae23-0cbb5de344a3)
 
                                Figure 2: Context Diagram DFD for Data Warehouse System
+
+## Use cases Diagram
+When designing the information system of the institution, it is prominent to make sure that the system deliverables are clear and easy to understand. This involves designing a Use Case Diagram. For the data warehouse system, there are several use cases: collect data, store data, integrate data, transform data, report, and analyze data. These use cases will be performed by different actors like loan officer, data analyst, system administrator. 
+
+![Use case Diagram](https://github.com/user-attachments/assets/15cd416a-a97f-407f-96d0-149109886ee7)
+
+                           Figure 3:Use Case Diagram for Data Warehouse System
+
+## Feasibility 
+
+Once the Data Warehouse System is designed, Revival International Financial Services will have a centralized repository for data from various sources which will ensure consistent and accurate data management. It will also improve data quality by data cleansing and validation and support real-time data analytics, enabling timely insights into business operations, loan performance, customer behavior, and market trends. This will invlove using cloud-based infrastructure to ensure that the system can scale elastically with growing data volumes and user demands when business expands, implementing encryption, access controls, and compliance with data protection regulations to guarantee a secure environment for sensitive financial and customer data.
