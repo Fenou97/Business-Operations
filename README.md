@@ -8,7 +8,8 @@
 - [Business Process Modeling Notation ](#business-process-modeling-notation)
 - [Data Flow Diagram ](#data-flow-diagram)
 - [Use cases Diagram](#use-cases-diagram)
--  [Data Design](#data-design)
+- [Data Design](#data-design)
+- [Feasibility](feasibility)
   
 
 ## Project Overview
