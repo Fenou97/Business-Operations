@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Tools](#tools)
 - [Audiences](#audiences)
-- [ Business Process Modeling Notation ](# business-process-modeling-notation)
+- [Business Process Modeling Notation ](#business-process-modeling-notation)
 - [Data Flow Diagram ](#data-flow-diagram)
 - [Use cases Diagram](#use-cases-diagram)
 -  [Data Design](#data-design)
@@ -47,8 +47,12 @@ When designing the information system of the institution, it is prominent to mak
 ## Data Design
 
 During the fact-finding process, users have defined the different data that the Data Warehouse System of Revival Financial Services must store as inputs. Transactional Data, Operational Data, External Data are the core inputs that will support the functionality of the business information system. In alignment with these requirements (inputs), we have been able to design a physical model for Data Warehouse System that will provide a detailed schema that includes tables, attributes, data types, primary keys, foreign keys in order to ensure that everyone has a clear understanding of the database structure and its capabilities for data integrity and data quality. 
-
+    
 ![Data Design](https://github.com/user-attachments/assets/dd927da2-3e5a-42c5-9444-7d9b903cc88d)
+
+                         Figure 4:Data Design for Data Warehouse System
+
+          
 
 ## Feasibility 
 
